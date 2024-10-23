@@ -1,4 +1,4 @@
-# Data_NatureHumanBehavior_Manuscript
+# AR_Telepresence_Older_Younger_Data
 Data corresponding to the manuscript titled 'Efficacy of Augmented Reality-Based Telepresence as a Medium for Interpersonal Communication among Older and Younger Adults'
 
 
